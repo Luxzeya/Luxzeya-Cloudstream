@@ -1,1 +1,24 @@
 
+[
+  {
+    "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/Budi.cs3",
+    "status": 1,
+    "version": 3,
+    "name": "Budi",
+    "internalName": "Budi",
+    "authors": [
+      "TeKuma25"
+    ],
+    "description": "Koleksi buku video edukasi anak dan literasi digital dari BUDI Kemendikdasmen.",
+    "fileSize": 16973,
+    "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+    "language": "id",
+    "tvTypes": [
+      "Movie"
+    ],
+    "iconUrl": "https://budi.kemendikdasmen.go.id/assets/images/logo/si-glen.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-8a868e01f6fc89e97793be79cedff369850ec4f9efdc24366ba7901415419137"
+  }
+]
+
