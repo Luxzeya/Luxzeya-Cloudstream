@@ -1,0 +1,8 @@
+{
+  "name": "Luxzeya Repo",
+  "description": "Kumpulan ekstensi CloudStream pilihan Luxzeya.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Luxzeya/luxzeya-cloudstream/builds/plugins.json"
+  ]
+}
